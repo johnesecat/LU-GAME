@@ -1,0 +1,1637 @@
+{
+ "nt/BasicShapes/Cone.uexp": {
+  "v": 2563,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/BasicShapes/Cube.uexp": {
+  "v": 497,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/BasicShapes/Cylinder.uexp": {
+  "v": 888,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/BasicShapes/Sphere.uexp": {
+  "v": 801,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "nt/EditorMeshes/AssetViewer/Sphere_inversenormals.uexp": {
+  "v": 820,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "nt/EditorMeshes/Camera/SM_CraneRig_Base.uexp": {
+  "v": 5271,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EditorMeshes/Camera/SM_CraneRig_Body.uexp": {
+  "v": 8474,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EditorMeshes/Camera/SM_CraneRig_Mount.uexp": {
+  "v": 1824,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EditorMeshes/Camera/SM_RailRig_Mount.uexp": {
+  "v": 15026,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EditorMeshes/Camera/SM_RailRig_Track.uexp": {
+  "v": 13073,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EngineFonts/RobotoDistanceField.uexp": {
+  "v": 313,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EngineMaterials/BaseFlattenMaterial.uexp": {
+  "v": 135,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EngineMaterials/EmissiveMeshMaterial.uexp": {
+  "v": 108,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EngineMeshes/ParticleCube.uexp": {
+  "v": 194,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EngineMeshes/Sphere.uexp": {
+  "v": 4487,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/EngineSky/SM_SkySphere.uexp": {
+  "v": 736,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/Maps/Entry.uexp": {
+  "v": 113,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "nt/Maps/Entry_BuiltData.uexp": {
+  "v": 2744,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/VREditor/Sounds/UI/Camera_Shutter.uexp": {
+  "v": 114,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/VREditor/TransformGizmo/BoundingBoxCorner.uexp": {
+  "v": 1509,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/VREditor/TransformGizmo/BoundingBoxEdge.uexp": {
+  "v": 524,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/VREditor/TransformGizmo/PlaneTranslationHandle.uexp": {
+  "v": 365,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/VREditor/TransformGizmo/SM_Sequencer_Key.uexp": {
+  "v": 6475,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "nt/VREditor/TransformGizmo/SM_Sequencer_Node.uexp": {
+  "v": 491,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp": {
+  "v": 958,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp": {
+  "v": 958,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp": {
+  "v": 486,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp": {
+  "v": 1961,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp": {
+  "v": 1961,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp": {
+  "v": 969,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp": {
+  "v": 585,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp": {
+  "v": 585,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp": {
+  "v": 273,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp": {
+  "v": 17801,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp": {
+  "v": 8169,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uexp": {
+  "v": 169,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp": {
+  "v": 2429,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp": {
+  "v": 2429,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp": {
+  "v": 1199,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp": {
+  "v": 26046,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp": {
+  "v": 16132,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp": {
+  "v": 361,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp": {
+  "v": 597,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp": {
+  "v": 597,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp": {
+  "v": 304,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp": {
+  "v": 506,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp": {
+  "v": 506,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp": {
+  "v": 234,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp": {
+  "v": 665,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp": {
+  "v": 665,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp": {
+  "v": 313,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp": {
+  "v": 615,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp": {
+  "v": 483,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp": {
+  "v": 312,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp": {
+  "v": 408,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp": {
+  "v": 596,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp": {
+  "v": 157,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp": {
+  "v": 5572,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp": {
+  "v": 6318,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp": {
+  "v": 2700,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp": {
+  "v": 269,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp": {
+  "v": 299,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp": {
+  "v": 406,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp": {
+  "v": 17113,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp": {
+  "v": 13358,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp": {
+  "v": 8445,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp": {
+  "v": 361,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp": {
+  "v": 361,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Square_solid.uexp": {
+  "v": 169,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp": {
+  "v": 681,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp": {
+  "v": 681,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp": {
+  "v": 329,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp": {
+  "v": 211,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp": {
+  "v": 211,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp": {
+  "v": 114,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp": {
+  "v": 14065,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp": {
+  "v": 13881,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp": {
+  "v": 555,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Experimental/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp": {
+  "v": 2144,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "ns/Runtime/HDRIBackdrop/Content/Meshes/EnviroDome.uexp": {
+  "v": 3604,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/elements/cum-meter/bp_cum-meter.uexp": {
+  "v": 133,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/elements/param_base/bp_inline-tile-selector_base.uexp": {
+  "v": 122,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/elements/param_base/bp_picker_base.uexp": {
+  "v": 159,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/elements/param_base/bp_slider_base.uexp": {
+  "v": 131,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/elements/param_base/bp_slider_vertical.uexp": {
+  "v": 128,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/graphics/menu_elements/mat_bodyfat-distribution.uexp": {
+  "v": 152,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/bp_designer.uexp": {
+  "v": 266,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/clothing/bp_designer_LRSelector-clothing.uexp": {
+  "v": 104,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/customization/bp_designer_custompicker_wheel.uexp": {
+  "v": 127,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/customization/bp_designer_nose-appearance.uexp": {
+  "v": 107,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/customization/bp_designer_proportions.uexp": {
+  "v": 134,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/layout/bp_designer_tabscroll.uexp": {
+  "v": 200,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/presets/bp_designer_characterframe.uexp": {
+  "v": 120,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/presets/bp_designer_outfitframe.uexp": {
+  "v": 120,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/designer/receiver/bp_designer_receiver_penis.uexp": {
+  "v": 183,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/floating/bp_floating_auto.uexp": {
+  "v": 123,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/floating/settingsmenu/bp_settingsmenu.uexp": {
+  "v": 119,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/floating/sidebar/bp_floating_sidebar.uexp": {
+  "v": 122,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/floating/sidebar/bp_floating_sidebar_lrselector.uexp": {
+  "v": 100,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/floating/sidebar/bp_floating_sidebar_lrselector_item.uexp": {
+  "v": 185,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/floating/sidebar/bp_floating_subsidebar_settings.uexp": {
+  "v": 227,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/main/bp_mainmenu.uexp": {
+  "v": 158,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/radial/mat_radialrange.uexp": {
+  "v": 192,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "UI/menus/radial/matinst_radialrange_balance.uexp": {
+  "v": 100,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "audio/SFX/Ambience/room_tone_loop.uexp": {
+  "v": 114,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "audio/SFX/cum/shots/external/cumsplurt_04.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "audio/SFX/cum/shots/external/cumsplurt_05.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "audio/SFX/cum/shots/external/cumsplurt_06.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/arms/dude_arms_Skeleton.uexp": {
+  "v": 345,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/arms/anim/ab_arms.uexp": {
+  "v": 112,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/dude/arms/anim/pose_primary_arms_kneel.uexp": {
+  "v": 113,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/arms/anim/pose_primary_arms_layfront.uexp": {
+  "v": 137,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/arms/anim/pose_primary_arms_seated.uexp": {
+  "v": 129,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/arms/styles/standard/arms_standard_fore.uexp": {
+  "v": 19522,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/arms/styles/standard/arms_standard_full.uexp": {
+  "v": 7717,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/dude/arms/styles/standard/arms_standard_hands.uexp": {
+  "v": 14120,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/bp_dick.uexp": {
+  "v": 496,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/bp_procdick.uexp": {
+  "v": 200,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/animations/ab_dick.uexp": {
+  "v": 515,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/materials/popsicle/dude_popsicle.uexp": {
+  "v": 6233,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/materials/standard/mat_dick_Inst_no-voronoi.uexp": {
+  "v": 101,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/materials/standard/sm_dude_dick.uexp": {
+  "v": 22973,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/dude/dick/physics/physics_dick.uexp": {
+  "v": 147,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/bp_hdchan.uexp": {
+  "v": 543,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/ab_breathing.uexp": {
+  "v": 132,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/ab_hdchan.uexp": {
+  "v": 1412,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/ab_hdchan_physics.uexp": {
+  "v": 507,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/customization/ab_hdchan_customization.uexp": {
+  "v": 372,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/animations/customization/hdchan_customization_breast-size.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/customization/hdchan_customization_buttock-size.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/customization/hdchan_customization_hip-width.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/customization/hdchan_renamed_customization_thigh_thickness.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/designer/hdchan_renamed_Anim_designer_bounce.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/designer/hdchan_renamed_Anim_designer_squat.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/drivers/hdchan_renamed_Anim_driver_breasts.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/drivers/hdchan_renamed_Anim_driver_buttocks.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/drivers/pose_hdchan_driver_breasts.uexp": {
+  "v": 135,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/expressions/hdchan_renamed_Anim_expression_smile.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/expressions/hdchan_renamed_Anim_expression_smile_open.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/expressions/hdchan_renamed_expression_mouth_bare.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/expressions/hdchan_renamed_expression_mouth_pucker.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/expressions/hdchan_renamed_expression_mouth_smile.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/expressions/hdchan_renamed_expression_mouth_sneer.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/hands/ab_hdchan_hands_ik.uexp": {
+  "v": 329,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/hands/ab_hdchan_hands_posing.uexp": {
+  "v": 1885,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/hands/cr_fingers_handjob.uexp": {
+  "v": 154,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/animations/hands/cr_handik.uexp": {
+  "v": 272,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/hands/cr_shoulder_preprocess.uexp": {
+  "v": 1117,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/lips/ab_hdchan_lips.uexp": {
+  "v": 127,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/outfit/hdchan_renamed_Anim_customization_bra.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/outfit/hdchan_renamed_Anim_customization_shoes_highheel.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/outfit/hdchan_renamed_Anim_customization_shoes_lowheel.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/cross-legged/ab_hdchan_position_cross-legged.uexp": {
+  "v": 195,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/cross-legged/cr_position_cross-legged.uexp": {
+  "v": 160,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/animations/positions/cross-legged/hdchan_position_cross-legged.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/cross-legged/pose_hdchan_position_cross-legged.uexp": {
+  "v": 177,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/kneel/ab_hdchan_position_kneel.uexp": {
+  "v": 240,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/kneel/cr_kneel.uexp": {
+  "v": 266,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/kneel/hdchan_position_kneel.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/kneel/pose_hdchan_position_kneel.uexp": {
+  "v": 177,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/layfront/cr_layfront.uexp": {
+  "v": 180,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/animations/positions/layfront/hdchan_renamed_Anim_pose_layfront.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/layfront/pose_hdchan_position_layfront.uexp": {
+  "v": 174,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/seated/cr_seated.uexp": {
+  "v": 158,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/animations/positions/seated/hdchan_renamed_Anim_pose_seated.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/positions/seated/pose_hdchan_position_seated.uexp": {
+  "v": 177,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/tongue/ab_hdchan_tongue.uexp": {
+  "v": 1413,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/tongue/cr_tongue_out.uexp": {
+  "v": 157,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/animations/tongue/hdchan_tongue_rest.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/util/anim_hdchan_rest.uexp": {
+  "v": 621,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/animations/util/cr_keep_on_floor.uexp": {
+  "v": 721,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/audio/source/cough1.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/audio/source/cough2.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/audio/source/cough_blocked_1.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/audio/source/gulp.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/audio/source/throat_slurp.uexp": {
+  "v": 106,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bellybutton_piercings/bellybuttonstud.uexp": {
+  "v": 647,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bodysuits/bunnytard/bunnytard.uexp": {
+  "v": 12754,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bodysuits/hdchansuit/hdchansuit.uexp": {
+  "v": 31488,
+  "i": 200,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bodysuits/leotardsleeveless/bodysuit_leotardsleeveless.uexp": {
+  "v": 25451,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bodysuits/ribbonsuit/ribbonsuit.uexp": {
+  "v": 6413,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bracelets/bracelet_chain/bracelet_chain.uexp": {
+  "v": 3892,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bracelets/bracelet_cubes/bracelet_cubes.uexp": {
+  "v": 3763,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bracelets/bracelet_cuffs/bracelet_cuffs.uexp": {
+  "v": 2855,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bras/basic/bra_basic.uexp": {
+  "v": 15174,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bras/camisole/camisole.uexp": {
+  "v": 18225,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bras/lace/lace.uexp": {
+  "v": 16446,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bras/strapless/bra_strapless.uexp": {
+  "v": 7239,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/bras/string/bra_trianglebikini.uexp": {
+  "v": 20165,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/dresses/bodycon/bodycon_new.uexp": {
+  "v": 39858,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/dresses/dress_puffy/dress_puffy.uexp": {
+  "v": 22222,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/dresses/maid/sm_maid-dress.uexp": {
+  "v": 101167,
+  "i": 460624,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/dresses/santa/dress_santa.uexp": {
+  "v": 56676,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/earrings/earring_cross.uexp": {
+  "v": 2810,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/earrings/earring_hoop.uexp": {
+  "v": 2055,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/earrings/earring_stud.uexp": {
+  "v": 400,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/earrings/earring_triangle.uexp": {
+  "v": 248,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/earrings/disc/earrings_disc.uexp": {
+  "v": 1031,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/earrings/hdchansuitearrings/hdchansuitearrings.uexp": {
+  "v": 19153,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/lipring.uexp": {
+  "v": 1287,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/medusa.uexp": {
+  "v": 327,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/nostrilring.uexp": {
+  "v": 1287,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/septumcrescent.uexp": {
+  "v": 1671,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/septumcrescentlarge.uexp": {
+  "v": 1671,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/septumring.uexp": {
+  "v": 1287,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/septumringlarge.uexp": {
+  "v": 1287,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/facial_piercings/verticallabret.uexp": {
+  "v": 647,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/glasses/blindfold/blindfold.uexp": {
+  "v": 5383,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/glasses/bookworm/bookworm.uexp": {
+  "v": 13127,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/glasses/librarian/librarian.uexp": {
+  "v": 15127,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/hands/maid_gloves/maid_gloves.uexp": {
+  "v": 18570,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/headgear/flower/flower.uexp": {
+  "v": 2551,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/headgear/halo/halo.uexp": {
+  "v": 3079,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/headgear/headphones/headphones.uexp": {
+  "v": 49604,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/headgear/maid_headband/maid_headband.uexp": {
+  "v": 16391,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/headgear/mask/mask.uexp": {
+  "v": 18631,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/headgear/santahat/santahat.uexp": {
+  "v": 3420,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/horns/antlers.uexp": {
+  "v": 7271,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/horns/calf.uexp": {
+  "v": 2455,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/horns/demon.uexp": {
+  "v": 4615,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/horns/taurus.uexp": {
+  "v": 3079,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/horns/unidemon.uexp": {
+  "v": 775,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/kemomimi/catears.uexp": {
+  "v": 18343,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/kemomimi/rabbitears.uexp": {
+  "v": 12671,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/necklaces/bowtie/bowtie.uexp": {
+  "v": 3892,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/necklaces/cravat/cravat.uexp": {
+  "v": 13581,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/necklaces/ringchoker/ringchoker.uexp": {
+  "v": 1671,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/necklaces/spikedcollar/spikecollar.uexp": {
+  "v": 1031,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/necklaces/studdedcollar/studdedcollar.uexp": {
+  "v": 12754,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/nipples/nipplering.uexp": {
+  "v": 2567,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/nipples/nippleringlarge.uexp": {
+  "v": 2567,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/nipples/nipplestud.uexp": {
+  "v": 1287,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/outerwear/santashawl/santashawl_lo.uexp": {
+  "v": 27636,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/outerwear/thotpuffer/thotpuffer.uexp": {
+  "v": 63395,
+  "i": 17271,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/panties/basic/panties_basic.uexp": {
+  "v": 10307,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/panties/highwaist_thong/highwaist_thong.uexp": {
+  "v": 4482,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/panties/lace/panties_lace.uexp": {
+  "v": 10363,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/panties/spats/spats.uexp": {
+  "v": 13363,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/panties/spats/spats_short.uexp": {
+  "v": 11334,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/panties/string/stringbikinibottom.uexp": {
+  "v": 9671,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/pants/cuffed_sweatpants/cuffed_sweatpants.uexp": {
+  "v": 46693,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/pants/jazzpants/jazzpants.uexp": {
+  "v": 24380,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/pants/jeans/skinny-lo/jeans_skinny-lo.uexp": {
+  "v": 26911,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/pants/jeans/skinny-mid/jeans_skinny-mid.uexp": {
+  "v": 28207,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/rings/ring_oval/ring_oval.uexp": {
+  "v": 2287,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/shoes/chunkysandals/shoes_chunkysandals_lo.uexp": {
+  "v": 13815,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/shoes/perfumeheels/perfumeheels3.uexp": {
+  "v": 18695,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/shoes/platform-boots/shoes_platform-boots.uexp": {
+  "v": 12487,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/shoes/thick_sole_sneakers/thick_sole_sneakers.uexp": {
+  "v": 24836,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/skirts/pencil/skirt_pencil.uexp": {
+  "v": 16479,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/skirts/pleatedskirt/pleatedskirtredo.uexp": {
+  "v": 19587,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/socks/hdchansuitleggings/hdchansuitleggings.uexp": {
+  "v": 19899,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/socks/standard/overknee_neo.uexp": {
+  "v": 4737,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/clothing/items/socks/standard/socks_ankle_neo.uexp": {
+  "v": 2958,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/clothing/items/socks/standard/socks_kneesocks.uexp": {
+  "v": 3427,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/clothing/items/socks/standard/socks_low.uexp": {
+  "v": 2990,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/clothing/items/socks/standard/thighhighs.uexp": {
+  "v": 4777,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tails/tail_demon/tail_demon.uexp": {
+  "v": 11687,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tops/boyfriendtee/top_boyfriendtee.uexp": {
+  "v": 63035,
+  "i": 190,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tops/dressshirt/shirt_longsleeve_buttoned.uexp": {
+  "v": 34061,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tops/halter/top_halter.uexp": {
+  "v": 15175,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tops/top_overlongcrop/top_overlongcrop.uexp": {
+  "v": 29458,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tops/turtle/turtle.uexp": {
+  "v": 26743,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/clothing/items/tops/waistcoat/waistcoat_low.uexp": {
+  "v": 29861,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/bp_character_wrapper.uexp": {
+  "v": 135,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/scalp.uexp": {
+  "v": 3541,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/animation/ab_hairsystem.uexp": {
+  "v": 791,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/animation/sm_hairsystem_dummy.uexp": {
+  "v": 10896,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/centerpoint.uexp": {
+  "v": 10308,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/chops.uexp": {
+  "v": 11867,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/neareye.uexp": {
+  "v": 11910,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/overeye_full.uexp": {
+  "v": 11909,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/overeye_half.uexp": {
+  "v": 8835,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/straight.uexp": {
+  "v": 5166,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/swept.uexp": {
+  "v": 15286,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bangs/swoops.uexp": {
+  "v": 13292,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/bouncy.uexp": {
+  "v": 79495,
+  "i": 284626,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/doublebun.uexp": {
+  "v": 172814,
+  "i": 2068,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/longspikesneat.uexp": {
+  "v": 25011,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/longspikeswavy.uexp": {
+  "v": 25329,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/longstraight.uexp": {
+  "v": 25173,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/longstraight_tied.uexp": {
+  "v": 137023,
+  "i": 471442,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/longstripswavy.uexp": {
+  "v": 25186,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/longthickwaves.uexp": {
+  "v": 30614,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/medspikeswavy.uexp": {
+  "v": 25419,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/megadrills.uexp": {
+  "v": 46170,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/roughcrop.uexp": {
+  "v": 42547,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/simplepony.uexp": {
+  "v": 17304,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/simpletwin.uexp": {
+  "v": 55810,
+  "i": 94023,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/singlebun.uexp": {
+  "v": 39344,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/bodies/twistedpony.uexp": {
+  "v": 16072,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/bulboustied.uexp": {
+  "v": 12615,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/drills.uexp": {
+  "v": 8583,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/hime_long.uexp": {
+  "v": 2142,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/hime_short.uexp": {
+  "v": 2142,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/loosecurls_long.uexp": {
+  "v": 21353,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/loosecurls_med.uexp": {
+  "v": 21353,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/roughframe.uexp": {
+  "v": 25544,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/customization/elements/hairsystem/components/temples/smoothsharp.uexp": {
+  "v": 14937,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "characters/hdchan/materials/mat_teeth.uexp": {
+  "v": 110,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/materials/mat_tongue.uexp": {
+  "v": 107,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/models/skel_hdchan.uexp": {
+  "v": 1045,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/models/sm_hdchan.uexp": {
+  "v": 424850,
+  "i": 5012686,
+  "fmt": "f32"
+ },
+ "characters/hdchan/models/sm_hdchan_censor.uexp": {
+  "v": 1927,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/models/sm_hdchan_fingernails.uexp": {
+  "v": 1226,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/models/sm_hdchan_shadowproxy.uexp": {
+  "v": 9651,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/models/sm_hdchan_teeth.uexp": {
+  "v": 11590,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/models/sm_hdchan_toenails.uexp": {
+  "v": 2567,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "characters/hdchan/physics/bp_mouth_colliders.uexp": {
+  "v": 216,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "environment/stool.uexp": {
+  "v": 74679,
+  "i": 170479,
+  "fmt": "f16"
+ },
+ "fx/cum/icocum/ns_cum.uexp": {
+  "v": 231,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "fx/cum/icocum/stm_icocum.uexp": {
+  "v": 22343,
+  "i": 0,
+  "fmt": "f32"
+ },
+ "fx/saliva/bp_fakerope_saliva.uexp": {
+  "v": 122,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "fx/saliva/stm_saliva.uexp": {
+  "v": 79730,
+  "i": 100853,
+  "fmt": "f16"
+ },
+ "gameplay/camera/bp_cam.uexp": {
+  "v": 121,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "gameplay/control/bp_handjob_manager.uexp": {
+  "v": 102,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "gameplay/control/bp_playercursor.uexp": {
+  "v": 196,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "gameplay/dialogue/bp_dialogue_controller.uexp": {
+  "v": 330,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "gameplay/dialogue/dt_dialoguestyle_eng.uexp": {
+  "v": 132,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "gameplay/dialogue/dt_dialoguestyle_jp.uexp": {
+  "v": 132,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "gameplay/session/session.uexp": {
+  "v": 479,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "levels/lvl_game.uexp": {
+  "v": 431,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "monkey/bp_scrotter.uexp": {
+  "v": 123,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "monkey/slime/mat_hdchan_slime-fingernails.uexp": {
+  "v": 139,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "monkey/slime/ns_slime-drips.uexp": {
+  "v": 217,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "monkey/slime/ns_slime_cum.uexp": {
+  "v": 1270,
+  "i": 0,
+  "fmt": "f16"
+ },
+ "util/lib_utils.uexp": {
+  "v": 296,
+  "i": 0,
+  "fmt": "f16"
+ }
+}

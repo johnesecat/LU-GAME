@@ -1,0 +1,469 @@
+{
+ "session_scalars": [
+  {
+   "id": "EF1C3D874E9280DCA54F44A7A8DFE4B7",
+   "display": "Mouse sensitivity",
+   "default": 1.0,
+   "min": 0.1,
+   "max": 1.5
+  },
+  {
+   "id": "202FBC234186146DCBFD8CBF6AD49CDD",
+   "display": "FX volume",
+   "default": 1.0,
+   "min": 0.0,
+   "max": 1.0
+  },
+  {
+   "id": "44452A3F4F69EB58A0424F8EB9E72C3F",
+   "display": "UI volume",
+   "default": 1.0,
+   "min": 0.0,
+   "max": 1.0
+  },
+  {
+   "id": "164F9B334A40C4D9FB5272B5B3F9740C",
+   "display": "Dialogue frequency",
+   "default": 0.0,
+   "min": 0.0,
+   "max": 1.0
+  },
+  {
+   "id": "E1136BF9436AD20A56F82D9ECAF949DA",
+   "display": "Arousal sensitivity",
+   "default": 0.5,
+   "min": 0.0,
+   "max": 1.0
+  },
+  {
+   "id": "272F226F46DF38E51C6221AECEB86F33",
+   "display": "Cum lifespan",
+   "default": 30.0,
+   "min": 5.0,
+   "max": 120.0
+  },
+  {
+   "id": "D914806B473AABFAE0AFA4B4F33B8A9D",
+   "display": "Length",
+   "default": 1.0,
+   "min": 0.5,
+   "max": 1.25
+  },
+  {
+   "id": "632C28954B4B595CFD422BBD1AA440E0",
+   "display": "Bulge",
+   "default": 0.0,
+   "min": 0.0,
+   "max": 1.0
+  },
+  {
+   "id": "A84B9A014D010C52C93E8598CD3F7A09",
+   "display": "Curve",
+   "default": 0.0,
+   "min": 0.0,
+   "max": 1.0
+  },
+  {
+   "id": "9F66A4B7477888FD3A9622B89379AF15",
+   "display": "Girth",
+   "default": 1.0,
+   "min": 0.9,
+   "max": 1.1
+  },
+  {
+   "id": "493805F748F9BC702AAB53A15C1F75B3",
+   "display": "Size",
+   "default": 1.0,
+   "min": 0.8,
+   "max": 1.25
+  },
+  {
+   "id": "FE117DEC4DAD6665F03F1A92BA3F85FE",
+   "display": "Sag",
+   "default": 0.0,
+   "min": -1.0,
+   "max": 3.0
+  }
+ ],
+ "session_booleans": [
+  {
+   "id": "A241A580407A706E82463BB038936813",
+   "display": "High-quality translucency",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "03214C8044D1C297F0718E924083416A",
+   "display": "Show extra meters",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "CE7A26AD416BB6E1988C9E9D2F4F88C9",
+   "display": "Handjob sync",
+   "value": true,
+   "extra": [
+    false
+   ]
+  },
+  {
+   "id": "645755FD439377F1E2A7E5B5E3DB58D7",
+   "display": "Auto mode",
+   "value": false,
+   "extra": [
+    false
+   ]
+  },
+  {
+   "id": "85275ED64DA4BC8CB814C899A49A0157",
+   "display": "Ambient occlusion",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "831970394A9BD4E267D2DD97BBAB1E50",
+   "display": "Shadows",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "6EA86D834D31CBFC824A1287446DF340",
+   "display": "V-Sync",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "57D4F6154D8DCB29B45AC4A8A61A1BF3",
+   "display": "Non-POV eye contact",
+   "value": false,
+   "extra": [
+    false
+   ]
+  },
+  {
+   "id": "B1E0EE3D4853893CE82EA6A01C531E77",
+   "display": "Skeleton physics effects",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "C155C6EA43975E52EF937D8EC3E76431",
+   "display": "Shader physics effects",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "A559838949513B70F6A77F8437363254",
+   "display": "Tessellation",
+   "value": true,
+   "extra": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false
+   ]
+  },
+  {
+   "id": "D429961E42495EBD50771C9DFA75E538",
+   "display": "Escape key closes game instantly",
+   "value": false,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "2B7816DD44A963D96D07CDADE1B843EA",
+   "display": "Show penis X-ray",
+   "value": false,
+   "extra": [
+    false
+   ]
+  },
+  {
+   "id": "127D19E848CD183D12C5549C74967AB9",
+   "display": "Output CVars",
+   "value": false,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "4737A035438E8BAAA73B57BB34E19F59",
+   "display": "Advanced saliva effects",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "220F9DDC489C580AF461D5A812B66087",
+   "display": "Bloom",
+   "value": true,
+   "extra": [
+    true
+   ]
+  },
+  {
+   "id": "6F96873146B4F5317FEB63BE6B65F93B",
+   "display": "Censor",
+   "value": false,
+   "extra": [
+    false
+   ]
+  },
+  {
+   "id": "D2FC169042A3B4BA639613A1604E44A0",
+   "display": "High-quality geometry",
+   "value": true,
+   "extra": [
+    true
+   ]
+  }
+ ],
+ "session_combos": [
+  {
+   "id": "275809EA40C96C1E4D8B4F8200C112EF",
+   "display": "Language",
+   "options": []
+  },
+  {
+   "id": "46F496A2447DA5400361EB93B10D377B",
+   "display": "Dialogue set",
+   "options": []
+  },
+  {
+   "id": "A0CE213F49B1878EF32E1697BDCF097F",
+   "display": "Auto finish target",
+   "options": [
+    "finish-target_mouth",
+    "finish-target_throat",
+    "finish-target_chest"
+   ]
+  },
+  {
+   "id": "8BFD95564336243F1B09D5B539A4B01E",
+   "display": "Post-process FX",
+   "options": []
+  }
+ ],
+ "session_ranges": [
+  {
+   "id": "AEB508D24D4D2A795DA9EC92C4127780",
+   "display": "Handjob range (left)",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "CED56AFE44EB0AD3170C83B272BE5A38",
+   "display": "Handjob range (right)",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ],
+ "session_radials": [
+  {
+   "id": "9EE449BE4EF26DC05BB386AACF242218",
+   "display": "Control balance",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "0CC6808A43BE9EE1F02CFBAFC3BDD239",
+   "display": "Auto speed",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "FFC7DF274F87224948A90FACA2B0FF6E",
+   "display": "Auto passion",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "A7AD58A74F9F56E11BB8339947D49B7A",
+   "display": "Auto force",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "B7A74E3042A8465DD02161AD1CE28232",
+   "display": "Handjob speed (left)",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "1F4D40174D446C2E09D676A169FF02E2",
+   "display": "Handjob speed (right)",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "B703B7954E283D2FB0F26EB32C44C177",
+   "display": "Handjob twist",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ],
+ "session_hsvs": [
+  {
+   "id": "90FB64E4417F3CF7167EA4AEEE11837B",
+   "display": "Environment color",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ],
+ "positions": [
+  {
+   "id": "78E1521F4A9C8A7C2D32E3BE49D66AC3",
+   "display": "Kneel",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "42584B4345D3C75B737B06AFCF27A58C",
+   "display": "Lying front",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "57E7B5194B60476F141AE3A120590C92",
+   "display": "Seated",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "2B10FD084C8E0EBDFA809A9921A7E5A4",
+   "display": "Cross-legged",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ],
+ "env_colors": [
+  {
+   "id": "1939A28D4741EF37E3DDB3BF6315A128",
+   "display": "Default",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "078B176746F4585D57366C996F6B9216",
+   "display": "Peach",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "55E12DFE4119AA402DB87A90AA99582B",
+   "display": "Apple",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "7851E6834FACC2D10ECFD5BEB930570C",
+   "display": "Plum",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "8F6EDBD24F1AA94737101FBD55B8145F",
+   "display": "Tangerine",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "136B1F2F4FEB6B056FA3A8A036A09715",
+   "display": "Blackberry",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ],
+ "arm_styles": [
+  {
+   "id": "476EC4FB4B1C45BF1C759397FE40BCAC",
+   "display": "Default",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "D7D52BB94C3DDB9E0BE1639F34F508C9",
+   "display": "Ghost",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "DDAFB5F64D3C13792B6C7489FB6C11CC",
+   "display": "Flat",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ],
+ "penis_styles": [
+  {
+   "id": "9BD523C646AAD9AF2D9CE28D8F26DB31",
+   "display": "Default",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "850867DF42A120A132E2869D03D82802",
+   "display": "Ghost",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "16BE55924006D8D5AA1A409D66DEF7FB",
+   "display": "Popsicle",
+   "default": null,
+   "min": null,
+   "max": null
+  },
+  {
+   "id": "9590FF844B3C855808FC8995249D7527",
+   "display": "Flat",
+   "default": null,
+   "min": null,
+   "max": null
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FBX Skeletal Importer",
+	"Description": "Import skeletal meshes from Autodesk® FBX® format in runtime",
+	"Category": "Importers",
+	"CreatedBy": "YuriNK",
+	"CreatedByURL": "https://vrmocapstudio.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e0c040a49fef4eebbc6c7486b2d6ab7c",
+	"SupportURL": "mailto:ykasczc@gmail.com",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SkeletalImporter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

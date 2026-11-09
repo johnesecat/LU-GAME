@@ -1,0 +1,58 @@
+dialogue_name:"Default"
+
+first_throat:"...deeper"
+first_throat:"...more"
+first_throat:"Keep going* NAME*... please..."
+
+first_dt:"...it went so deep..."
+first_dt:"Keep going! Please!"
+
+vigorous:"You can keep going, if you want to..."
+vigorous:"I don't mind you being rough with me"
+vigorous:"Use me* NAME*..."
+
+held:"*NAME, *I'm feeling light-headed..."
+held:"Hold on a second, I need to breathe!"
+
+pre_cum:"Are you nearly there?"
+pre_cum:"A-are you coming?"
+
+cum_on_face:"It's all over me..."
+cum_on_face:"It's all over my face..."
+cum_on_face:"You came so much*, NAME*..."
+
+cum_in_eye:"Ah~! It's in my eye!"
+cum_in_eye:"Ah~!"
+
+cum_in_mouth:"It tastes good..."
+
+cum_in_throat:"You came down my throat..."
+
+restart:"Again?!"
+restart:"You still aren't satisfied?"
+restart:"Isn't *FINISHES* enough?!"
+restart:"W-wait... you want more?!"
+
+interrupt:"-!"
+interrupt:"-ghch!"
+interrupt:"-ghmph!"
+interrupt:"-mmb!"
+interrupt:"-mmbh!"
+interrupt:"-mmn!"
+interrupt:"-mnh!"
+interrupt:"-mph!"
+interrupt:"-mphh!"
+interrupt:"-ng!"
+interrupt:"-nngh!"
+
+finish1:"once"
+finish2:"twice"
+finish3:"three times"
+finish4:"four times"
+finish5:"five times"
+finish6:"six times"
+finish7:"seven times"
+finish8:"eight times"
+finish9:"nine times"
+finish10:"ten times"
+finishOther:"that many times"

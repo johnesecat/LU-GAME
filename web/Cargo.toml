@@ -1,0 +1,51 @@
+[package]
+name = "hyperdeep-web"
+version = "0.7.2"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[[bin]]
+name = "hyperdeep-web"
+path = "src/main.rs"
+
+[dependencies]
+bevy = { version = "0.14", default-features = false, features = [
+    "bevy_core_pipeline",
+    "bevy_render",
+    "bevy_asset",
+    "bevy_scene",
+    "bevy_winit",
+    "bevy_gizmos",
+    "bevy_sprite",
+    "bevy_state",
+    "bevy_pbr",
+    "bevy_gltf",
+    "bevy_text",
+    "bevy_ui",
+    "png",
+    "x11",
+    "webgl2",
+    "mp3",
+    "vorbis",
+] }
+bevy_kira_audio = { version = "0.20", default-features = false, features = ["ogg"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+# Optimize for size on wasm
+[profile.wasm-release]
+inherits = "release"
+opt-level = "z"
+lto = true
+codegen-units = 1
+strip = true
+panic = "abort"
+
+[profile.release]
+opt-level = "s"
+lto = true
+getrandom = "0.2"
+
+
